@@ -1,0 +1,52 @@
+
+.rohit{
+	text-align: center;
+	margin: auto;
+    background-color: rgba;
+	color: red;
+}
+
+
+.ticket {
+	background-color: #ffb367;
+	border: 5px solid #ccc;
+	padding: 20px;
+	width: 600px;
+	height: 450px;
+	margin: 0 auto;
+	font-family: Arial, sans-serif;
+}
+
+.header {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.date {
+	font-size: 14px;
+}
+
+.details {
+	margin-bottom: 20px;
+}
+
+.details p {
+	margin: 0;
+}
+
+.barcode {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.barcode img {
+	height: 100px;
+	width: 250px;
+	color: rgb(255, 0, 0);
+}
+
+.footer {
+	font-size: 1.0rem;
+	text-align: center;
+	color: #888;
+}

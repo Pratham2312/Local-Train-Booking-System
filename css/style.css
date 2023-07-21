@@ -1,0 +1,162 @@
+body {
+  margin: 0px;
+  /* background-color:#F6F6F6; */
+  /* background-image: url("images/Mumbai.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background-color: #fddfb6;
+  /* line-height:; */
+}
+
+.nav-img {
+  height: 75px;
+  width: 75px;
+  position: absolute;
+  left: 40px;
+  top: 5px;
+}
+
+.Apli {
+  font-size: 2rem;
+}
+
+
+.navbar {
+  background-color: #FFBD59;
+  /* border-radius: 30px; */
+  padding-left: 70px;
+  font-weight: bold;
+  font-size: 1.7rem;
+  padding-top: 1px;
+  padding-bottom: 1px;
+
+}
+
+.navbar ul {
+  overflow: auto;
+}
+
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 1px 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+.nav-link {
+  position: absolute;
+  right: 100px;
+}
+
+.navbar li a {
+  padding: 3px 3px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.navbar li a:hover {
+  color: rgb(255, 146, 4)
+}
+
+.login {
+  position: absolute;
+  right: 10px;
+  padding-top: 1px;
+}
+
+
+h3 {
+  font-weight: bold;
+  font-size: 3rem;
+  margin-top: 0px;
+  margin-bottom: 18px;
+}
+
+
+.container {
+  width: 80%;
+  margin: 5px auto;
+  line-height: 1.5;
+}
+
+.contact-box {
+  background: #fff;
+  display: flex;
+}
+
+.contact-left {
+  flex-basis: 60%;
+  padding: 10px 60px;
+}
+
+.contact-right {
+  flex-basis: 40%;
+  padding: 20px;
+  background: #7b6bd6;
+  color: #fff;
+}
+
+.container p {
+  margin-bottom: 20px;
+}
+
+.input-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.input-row .input-group {
+  flex-basis: 45%;
+}
+
+input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+  padding-bottom: 5px;
+}
+
+textarea {
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+label {
+  margin-bottom: 6px;
+  display: block;
+  color: #806ee2;
+}
+
+button {
+  background: #8b7cdf;
+  width: 100px;
+  border: none;
+  outline: none;
+  color: #fff;
+  height: 35px;
+  border-radius: 30px;
+  margin-top: 20px;
+  box-shadow: 0px 5px 15px 0px rgba(28, 0, 181, 0.3);
+}
+
+.contact-right h3 {
+  font-weight: 600px;
+  margin-bottom: 10px;
+}
+
+
+
+tr td {
+  padding-top: 20px;
+}
+
+
+
+
